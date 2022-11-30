@@ -17,7 +17,7 @@ include("administrador/configuracion/bd.php");
 
 <div class="div_contenedor">
     <div class="div_centrado"> 
-       <FONT FACE="Times" SIZE=12 COLOR="black">CARLOS</FONT>
+       <FONT FACE="Times" SIZE=12 COLOR="black">CARLOS Atuesta</FONT>
        <!-- <img  src="img/Imagen 1.png" width="700" alt="" srcset="">-->
     </div>
 </div>
